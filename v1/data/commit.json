@@ -1,1 +1,1 @@
-{"success":true,"value":{"allowEveryone":true,"allowUsersOwner":[176615419],"allowUsersActor":[176615419],"allowRepos":[],"allowCommits":[],"disallowCommits":["f9bb6762154102ec7eac1b93a05efc0ec1ff1863"]},"message":"Internal Just an Ultimate Site Tool data","code":200,"last-updated":null}
+{"success":true,"value":{"allowEveryone":true,"allowUsersOwner":[176615419],"allowUsersActor":[176615419],"allowRepos":[],"allowCommits":[],"disallowCommits":[]},"message":"Internal Just an Ultimate Site Tool data","code":200,"last-updated":null}
